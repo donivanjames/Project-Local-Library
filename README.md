@@ -8,3 +8,6 @@ We had to pull all kinds of book data and display it on a webpage for library pa
 
 ![image](https://user-images.githubusercontent.com/76602007/192033217-d7f5d012-1c05-4f33-a71f-e3d4eafe37c6.png)
 ![image](https://user-images.githubusercontent.com/76602007/192033820-daae6c07-01ff-4632-af35-b2523b094b9c.png)
+
+## Technology
+JavaScript, HTML, CSS, JSON, Node Package Manager, Mocha, Chai
